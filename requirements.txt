@@ -1,0 +1,12 @@
+
+# These libraries used in notebook and streamlit app
+
+pandas
+numpy
+matplotlib
+scipy
+scikit-learn
+plotly
+streamlit
+joblib
+pillow
